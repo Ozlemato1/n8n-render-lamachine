@@ -1,0 +1,8 @@
+{
+  "name": "n8n-custom",
+  "dependencies": {
+    "@tavily/n8n-nodes-tavily": "^0.2.2"
+  }
+}
+
+add package.json for Tavily node
