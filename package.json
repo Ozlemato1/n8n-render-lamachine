@@ -1,0 +1,9 @@
+{
+  "name": "n8n-custom",
+  "version": "1.0.0",
+  "description": "n8n with Tavily node",
+  "license": "MIT",
+  "dependencies": {
+    "@tavily/n8n-nodes-tavily": "^0.2.2"
+  }
+}
